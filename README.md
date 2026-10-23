@@ -49,3 +49,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ajpg19&hide_border=true&background=00000000&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=374151&dates=6B7280&currStreakNum=374151&sideNums=374151" />
   <img width="49%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=ajpg19&hide_border=true" />
 </picture>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajpg19/ajpg19/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajpg19/ajpg19/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/ajpg19/ajpg19/output/github-snake.svg" />
+  </picture>
+</p>

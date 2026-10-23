@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Albertj+PG;Full-stack+Developer+%C2%B7+Madrid" alt="Albertj PG — Full-stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Albertj+PG;Full-stack+Developer+%C2%B7+Madrid" alt="Albertj PG — Full-stack Developer" />
 
 <p>
   <a href="https://ajpg19.com"><img src="https://img.shields.io/badge/ajpg19.com-111827?style=flat-square&logo=About.me&logoColor=white" alt="ajpg19.com" /></a>

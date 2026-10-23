@@ -16,13 +16,13 @@
 
 ---
 
-### Stack
+<h3 align="center">Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres,supabase,cloudflare,vitest,git&theme=dark&perline=10" alt="Stack" />
 </p>
 
-### Actividad
+<h3 align="center">Actividad</h3>
 
 <p align="center">
   <picture>

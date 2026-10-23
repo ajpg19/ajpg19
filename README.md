@@ -10,6 +10,7 @@
 <p>
   <a href="https://www.lycita.es"><img src="https://img.shields.io/badge/lycita.es-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="lycita.es" /></a>
   <a href="https://ajpg19.com"><img src="https://img.shields.io/badge/ajpg19.com-111827?style=flat-square&logo=About.me&logoColor=white" alt="ajpg19.com" /></a>
+  <a href="https://www.linkedin.com/in/ajpg19/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Madrid-111827?style=flat-square&logo=googlemaps&logoColor=white" alt="Madrid" />
 </p>
 

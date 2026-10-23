@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Albertj+PG;Full-stack+Developer+%C2%B7+Madrid;Building+lycita.es" alt="Albertj PG — Full-stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Albertj+PG;Full-stack+Developer+%C2%B7+Madrid" alt="Albertj PG — Full-stack Developer" />
 
 <p>
-  Construyo productos web rápidos y bien diseñados con <b>Next.js</b>, <b>TypeScript</b> y <b>Cloudflare</b>.<br/>
-  Ahora mismo: <a href="https://www.lycita.es"><b>lycita.es</b></a>, licitaciones públicas en España, fáciles de encontrar.
+  Construyo productos web rápidos y bien diseñados con <b>Next.js</b>, <b>TypeScript</b> y <b>Cloudflare</b>.
 </p>
 
 <p>
-  <a href="https://www.lycita.es"><img src="https://img.shields.io/badge/lycita.es-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="lycita.es" /></a>
   <a href="https://ajpg19.com"><img src="https://img.shields.io/badge/ajpg19.com-111827?style=flat-square&logo=About.me&logoColor=white" alt="ajpg19.com" /></a>
   <a href="https://www.linkedin.com/in/ajpg19/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Madrid-111827?style=flat-square&logo=googlemaps&logoColor=white" alt="Madrid" />
@@ -23,20 +21,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres,supabase,cloudflare,vitest,git&theme=dark&perline=10" alt="Stack" />
 </p>
-
-### Proyecto destacado
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://www.lycita.es">lycita.es</a></h4>
-      <p>Buscador de licitaciones públicas con alertas, análisis y mapa por comunidades. Next.js 16 + OpenNext sobre Cloudflare Workers.</p>
-    </td>
-    <td width="50%">
-      <a href="https://www.lycita.es"><img src="https://www.lycita.es/og.png" alt="lycita.es" /></a>
-    </td>
-  </tr>
-</table>
 
 ### Actividad
 

@@ -22,6 +22,16 @@
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres,supabase,cloudflare,vitest,git&theme=dark&perline=10" alt="Stack" />
 </p>
 
+### Actividad
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ajpg19&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ajpg19&hide_border=true&background=00000000&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=374151&dates=6B7280&currStreakNum=374151&sideNums=374151" />
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=ajpg19&hide_border=true" />
+  </picture>
+</p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajpg19/ajpg19/output/github-snake-dark.svg" />
